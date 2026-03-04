@@ -1,2 +1,2 @@
-# atividade-javascript-intera-o
+# atividade-javascript
 Criando modelo de interação com JavaScript
