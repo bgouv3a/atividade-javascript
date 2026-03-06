@@ -1,0 +1,39 @@
+*{
+    transition: 0.5s ease;
+}
+.bolinha{
+    background-color: blue;
+    width: 25px;
+    height: 25px;
+    display: block;
+    float: left;
+    border-radius: 50%;
+    margin: 3px;
+    
+}
+.verde{
+    background-color: blue;
+    width: 25px;
+    height: 25px;
+    display: block;
+    float: left;
+    border-radius: 50%;
+    margin: 5px;
+    
+}
+#addBola{
+    border-radius: 5px;
+    height: 40px;
+    width: 20%;
+    float: left
+}
+#contador{
+    border-radius: 5px;
+    height: 40px;
+    width: 78%;
+    line-height: 225%;
+    text-align: left;
+    float: left;
+    padding-left: 2%;
+    
+}

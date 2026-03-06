@@ -1,0 +1,28 @@
+*{
+    color: black;
+    font-size: 15px;
+}
+.verde{
+    background-color: greenyellow;
+    width: 300px;
+    height: 100px;
+    display: block;
+    line-height: 200%;
+    text-align: center;
+    border-radius: 15px;
+    float: left;
+    transition: 0.5s;
+}
+
+.amarelo{
+    background-color: yellow;
+    width: 300px;
+    height: 100px;
+    display: block;
+    line-height: 200%;
+    text-align: center;
+    border-radius: 15px;
+    float: left;
+    transition: 0.5s;
+}
+
